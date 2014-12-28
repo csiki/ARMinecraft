@@ -1,0 +1,16 @@
+F:\CSIKI\ARMINECRAFT\Temp\bin\Debug\Assembly-CSharp.dll
+F:\CSIKI\ARMINECRAFT\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\CSIKI\ARMINECRAFT\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+F:\CSIKI\ARMINECRAFT\Temp\bin\Debug\UnityEditor.dll
+F:\CSIKI\ARMINECRAFT\Temp\bin\Debug\UnityEngine.dll
+F:\CSIKI\ARMINECRAFT\Temp\bin\Debug\UnityEngine.UI.dll
+F:\CSIKI\ARMINECRAFT\Temp\bin\Debug\Mono.Cecil.dll
+F:\CSIKI\ARMINECRAFT\Temp\bin\Debug\nunit.framework.dll
+F:\CSIKI\ARMINECRAFT\Temp\bin\Debug\Unity.DataContract.dll
+F:\CSIKI\ARMINECRAFT\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\CSIKI\ARMINECRAFT\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\CSIKI\ARMINECRAFT\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+F:\CSIKI\ARMINECRAFT\obj\Debug\Assembly-CSharp.dll
+F:\CSIKI\ARMINECRAFT\obj\Debug\Assembly-CSharp.pdb
+F:\CSIKI\ARMINECRAFT\Temp\bin\Debug\Qualcomm.Vuforia.UnityExtensions.dll
+F:\CSIKI\ARMINECRAFT\Temp\bin\Debug\Qualcomm.Vuforia.UnityExtensions.xml

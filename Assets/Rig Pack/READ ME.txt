@@ -1,0 +1,13 @@
+DO NOT REDISTRIBUTE THIS RIG PACKHere is the first officially released version of my rig pack, IÕll give you updated versions as time goes on :D This Read Me is where IÕll tell you about whats new in the rig pack whenever I update it.1.0:
+Added human
+Added Villager (NO LONGER WORKS, PLEASE WAIT FOR A FIX TO USE)
+Added creeper
+
+1.1:
+Updated human
+Updated creeper
+Added sheep
+Added enderman
+Added pig
+Added cow
+-Removed villager until fixed
